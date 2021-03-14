@@ -1,0 +1,132 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "brandName": "VEDIC GHEE Store",
+      "productName": "GHEE Kesariya Farm",
+      "Quantity": "1Kg",
+      "MRP": 1799,
+      "Price": 1749,
+      "ImageUrl": "https://images-na.ssl-images-amazon.com/images/I/91VqndqIH-L._SL1500_.jpg",
+      "offerText": 3,
+      "count": 0
+    },
+
+    {
+      "id": 3,
+      "brandName": "MuscleBlaze",
+      "productName": "Whey Protein Supplement",
+      "Quantity": "1Kg",
+      "MRP": 1699,
+      "Price": 999,
+      "ImageUrl": "https://images-na.ssl-images-amazon.com/images/I/61CEQNNwhjL._SL1500_.jpg",
+      "offerText": 41,
+      "count": 0
+    },
+    {
+      "id": 4,
+      "brandName": "MILCHMANN",
+      "productName": "Toned Milk",
+      "Quantity": "1 Litre",
+      "MRP": 780,
+      "Price": 700,
+      "ImageUrl": "https://images-na.ssl-images-amazon.com/images/I/71xYvCiS8rL._SL1500_.jpg",
+      "offerText": 10,
+      "count": 0
+    },
+    {
+      "id": 5,
+      "brandName": "PURIX",
+      "productName": "Soy Milk Powder",
+      "Quantity": "300g",
+      "MRP": 330,
+      "Price": 325,
+      "ImageUrl": "https://images-na.ssl-images-amazon.com/images/I/61oZZnsWfJL._SL1500_.jpg",
+      "offerText": 2,
+      "count": 0
+    },
+    {
+      "id": 6,
+      "brandName": "Heritage",
+      "productName": "Uht Milk Pouch",
+      "Quantity": "500 ml",
+      "MRP": 30,
+      "Price": 27,
+      "ImageUrl": "https://images-na.ssl-images-amazon.com/images/I/719IGFnA-LL._SL1500_.jpg",
+      "offerText": 10,
+      "count": 0
+    },
+    {
+      "id": 7,
+      "brandName": "Barilla",
+      "productName": "Sugo Arrabbita",
+      "Quantity": "400g",
+      "MRP": 275,
+      "Price": 249,
+      "ImageUrl": "https://images-na.ssl-images-amazon.com/images/I/61ZCrR99%2B2L._SL1001_.jpg",
+      "offerText": 9,
+      "count": 0
+    },
+    {
+      "id": 8,
+      "brandName": "Cavin's",
+      "productName": "Gulkand Milkshake",
+      "Quantity": "180 ml",
+      "MRP": 100,
+      "Price": 60,
+      "ImageUrl": "https://images-na.ssl-images-amazon.com/images/I/71F3SK5gxdL._SL1500_.jpg",
+      "offerText": 40,
+      "count": 0
+    },
+    {
+      "id": 9,
+      "brandName": "MuscleBlaze",
+      "productName": "BCAA Gold 8:1:1",
+      "Quantity": "450g",
+      "MRP": 2499,
+      "Price": 1874,
+      "ImageUrl": "https://images-na.ssl-images-amazon.com/images/I/61j36kv8W3L._SL1500_.jpg",
+      "offerText": 25,
+      "count": 0
+    },
+    {
+      "id": 10,
+      "brandName": "Nutella",
+      "productName": "Hazelnut Spread",
+      "Quantity": "350g",
+      "MRP": 380,
+      "Price": 342,
+      "ImageUrl": "https://images-na.ssl-images-amazon.com/images/I/718szvvcyiL._SL1500_.jpg",
+      "offerText": 10,
+      "count": 0
+    },
+    {
+      "id": 11,
+      "brandName": "Yogabar",
+      "productName": "Dark Chocolate Peanut Butter",
+      "Quantity": "400gm",
+      "MRP": 249,
+      "Price": 249,
+      "ImageUrl": "https://images-na.ssl-images-amazon.com/images/I/91VqndqIH-L._SL1500_.jpg",
+      "offerText": 0,
+      "count": 0
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
